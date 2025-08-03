@@ -28,7 +28,7 @@ IBI-Customer-Sales-Analysis/
 
 ### 1. Clone or Download the Repo
 
-git clone https://github.com/your-username/IBI-Customer-Sales-Analysis.git
+git clone https://github.com/jagadeesh2006-R/IBI-Customer-Sales-Analysis.git
 cd IBI-Customer-Sales-Analysis
 
 ### 2. Install Required Packages
